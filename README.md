@@ -1,4 +1,4 @@
 # barber
-trabajo en ionic
-ejemplo
-ejemplo
+Usuario administrador
+correo: administrador@gmail.com 
+contraseña: administrador
